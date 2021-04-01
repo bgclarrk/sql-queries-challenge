@@ -1,4 +1,4 @@
-# Code your solution here! 
+# Code your solution here!
 
 
 def blue_aliens
@@ -30,12 +30,12 @@ end
 
 
 def aliens_and_planets
- # Get a list of all aliens and the planets they belong to 
+ # Get a list of all aliens and the planets they belong to
 end
 
 
 def aliens_aboard_beebop
-   # Get a list of all aliens aboard a the spaceship named 'Beebop'  
+   # Get a list of all aliens aboard a the spaceship named 'Beebop'
 end
 
 
@@ -48,11 +48,11 @@ def spaceship_count_for_each_planet
 end
 
 def alien_count_for_spaceships
-    # Return each spaceships's name and how many aliens are aboard each spaceship    
+    # Return each spaceships's name and how many aliens are aboard each spaceship
 end
 
 def alien_count_for_planets
-    # Return each planet's name and how many aliens are from each planet  
+    # Return each planet's name and how many aliens are from each planet
 end
 
 def order_planets_by_aliens
@@ -72,7 +72,6 @@ def order_planets_by_alien_count
 end
 
 def order_planets_by_old_alien_count
-   ## MOST DIFFICULT 
+   ## MOST DIFFICULT
    # order the planets based on how many aliens over the age of 100 are from that planet
 end
-
